@@ -39,17 +39,17 @@ export const HeroSection = () => {
 
             <div className="mt-12 flex items-center gap-8 animate-fade-in delay-400">
               <div>
-                <p className="text-3xl font-display font-bold gradient-text">3+</p>
+                <p className="text-3xl font-display font-bold gradient-text">1+</p>
                 <p className="text-sm text-muted-foreground">Years Experience</p>
               </div>
               <div className="w-px h-12 bg-border" />
               <div>
-                <p className="text-3xl font-display font-bold gradient-text">10+</p>
+                <p className="text-3xl font-display font-bold gradient-text">2+</p>
                 <p className="text-sm text-muted-foreground">Projects Done</p>
               </div>
               <div className="w-px h-12 bg-border" />
               <div>
-                <p className="text-3xl font-display font-bold gradient-text">5</p>
+                <p className="text-3xl font-display font-bold gradient-text">3</p>
                 <p className="text-sm text-muted-foreground">Languages</p>
               </div>
             </div>
